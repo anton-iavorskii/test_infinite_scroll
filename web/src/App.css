@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "ReadexPro";
+  src: url("./assets/fonts/ReadexPro-Medium.ttf");
+}
+
+.App {
+  font-family: "ReadexPro", sans-serif;
+}

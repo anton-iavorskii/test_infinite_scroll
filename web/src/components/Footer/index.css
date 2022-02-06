@@ -1,0 +1,22 @@
+.Footer {
+  height: 78px;
+  width: 100%;
+  position: fixed;
+  bottom: -1px;
+  background: #ffffff;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.Footer_items {
+  width: 263px;
+  height: 44.32px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Footer_icon {
+  width: 50px;
+}

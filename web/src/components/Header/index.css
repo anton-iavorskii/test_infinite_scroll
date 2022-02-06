@@ -1,0 +1,19 @@
+.Header {
+  height: 78px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-bottom: 7px;
+  position: fixed;
+  top: 0;
+  background: #ffffff;
+}
+
+.Header__title {
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 35px;
+  color: #323232;
+  margin-bottom: 6px;
+}
